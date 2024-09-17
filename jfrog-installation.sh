@@ -3,7 +3,7 @@
 set -e
 
 # Define paths and versions
-ARTIFACTORY_VERSION="6.9.6"
+ARTIFACTORY_VERSION="7.90.10"
 ARTIFACTORY_DIR="/opt/artifactory/artifactory-oss-${ARTIFACTORY_VERSION}"
 SERVICE_FILE_PATH="/etc/systemd/system/artifactory.service"
 
